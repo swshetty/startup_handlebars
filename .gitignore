@@ -1,0 +1,4 @@
+node_modules
+.sass-cache
+app/build
+app/build.zip

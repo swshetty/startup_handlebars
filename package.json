@@ -1,0 +1,21 @@
+{
+    "name": "PWC",
+    "description": "",
+    "version": "0.2.1",
+    "contributors": {
+        "name": "",
+        "email": ""
+    },
+    "devDependencies": {
+        "assemble": "*",
+        "grunt": "*",
+        "grunt-contrib-clean": "*",
+        "grunt-contrib-sass": "*",
+        "grunt-contrib-concat": "*",
+        "grunt-contrib-connect": "*",
+        "grunt-contrib-copy": "*",
+        "grunt-contrib-jshint": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-watch": "*"
+    }
+}
