@@ -26,14 +26,6 @@ module.exports = function(grunt) {
                     files: {
                         '<%= build %>/': ['<%= srcTemplates %>/pages/*.hbs']
                     }
-                },    
-                checkout: {
-                    options: {
-                        layout: 'checkout.hbs'
-                    },
-                    files: {
-                        '<%= build %>/': ['<%= srcTemplates %>/pages/checkout/*.hbs']
-                    }
                 }
 
         },
