@@ -5,7 +5,7 @@ This repository is a base project setup for getting started with front end proje
 
 Install Instructions:
 
-*If you have NodeJS, SASS and Grunt installed, skip to step 5.*\n
+*If you have NodeJS, SASS and Grunt installed, skip to step 5.*
 *If you see any permisssion error while executing any of the commands below, use sudo if on MAC or run the cmd prompt with admin privileges if on windows.*
 
 1) Install Ruby - https://www.ruby-lang.org/en/installation/
